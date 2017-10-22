@@ -1,0 +1,17 @@
+body{
+    background: red;
+    color: #fff;
+}
+#tupian{
+    width: 120px;
+    height: 120px;
+    background-image: url('../images/p121.png');
+    background-repeat: no-repeat;
+    background-size: 120px 120px;
+    transform: rotate(45deg);
+    box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.24);
+}
+#aaa{
+    background: yellow;
+    color: #000;
+}

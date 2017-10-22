@@ -1,0 +1,24 @@
+/*! jiaxinyingwebpack搭建，可以在github中下载 */
+body {
+  background: red;
+  color: #fff;
+}
+
+#tupian {
+  width: 120px;
+  height: 120px;
+  background-image: url(http://192.168.0.110:8080/images/9928438d805941e1fc61448b5a176446.png);
+  background-repeat: no-repeat;
+  background-size: 120px 120px;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.24);
+  box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.24);
+}
+
+#gogo {
+  width: 300px;
+  height: 200px;
+  background: #000;
+}
+/*# sourceMappingURL=index.css.map*/
